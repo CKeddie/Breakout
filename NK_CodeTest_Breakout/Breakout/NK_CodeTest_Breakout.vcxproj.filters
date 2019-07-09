@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{78e6e1c1-639f-46ee-a98a-411dad37e892}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems">
+      <UniqueIdentifier>{06127921-9f96-40fc-9669-a288a9023aa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\GameStates">
+      <UniqueIdentifier>{3cf51794-861f-4cdb-adfb-3852bc3b813d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\GUI">
+      <UniqueIdentifier>{bd4b07be-458e-4069-98ed-a92006f9a0c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\CollisionDetection">
+      <UniqueIdentifier>{84580936-d1b9-43a2-a986-ccf8ea1cb94d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game">
+      <UniqueIdentifier>{dac239d9-2536-4c52-8c74-cda46134864a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Entities">
+      <UniqueIdentifier>{79a1172c-dcf8-4d86-9210-99cd01ed0e4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\GameStates">
+      <UniqueIdentifier>{06ed2947-3f9e-4128-b2f1-41e1a8acdf08}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\Application">
+      <UniqueIdentifier>{8c0c7282-8d3a-4997-b67a-7630104923af}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\Input">
+      <UniqueIdentifier>{9bd6f5b3-3c81-45ec-8e87-320754519cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Entities">
+      <UniqueIdentifier>{4879ba09-f9aa-4b41-99bd-dfda39399e70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\GameStates">
+      <UniqueIdentifier>{5cdc65d1-e553-4001-8ec9-99d164fbbf86}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Components">
+      <UniqueIdentifier>{9cd69d9b-8e89-435a-b072-002dbbe030c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game\Components">
+      <UniqueIdentifier>{00952278-2755-4d0a-8793-bf879e6f0b37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework">
+      <UniqueIdentifier>{90fdbb87-8904-4394-ac21-9791e12773eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\GameStates">
+      <UniqueIdentifier>{bd4bfb7b-8ac8-4495-9207-7fd74b57cccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\Input">
+      <UniqueIdentifier>{0f0e1daf-2b80-44d3-9072-f31dd62d1421}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\UI">
+      <UniqueIdentifier>{1cb1c130-dd80-4f48-acd5-4fc541dccc70}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\CollisionDetection">
+      <UniqueIdentifier>{740034d0-6b04-4542-bb0d-b331d495a518}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\Application">
+      <UniqueIdentifier>{6f9c07fa-da63-4346-a0da-5b80395c12b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Systems\Composition">
+      <UniqueIdentifier>{b45eb43c-ac2a-4db2-a3e1-1f5efd3f72a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Framework\Composition">
+      <UniqueIdentifier>{3f001ca6-b922-4a4b-b2bc-3d452e8ebfe6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Helpers">
+      <UniqueIdentifier>{9f8d6df7-4771-4b2b-832f-79bb2244630e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GameStateManager.cpp">
+      <Filter>Source Files\Framework\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="BaseGameState.cpp">
+      <Filter>Source Files\Framework\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InputHandler.cpp">
+      <Filter>Source Files\Framework\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="UIHandler.cpp">
+      <Filter>Source Files\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIElement.cpp">
+      <Filter>Source Files\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButton.cpp">
+      <Filter>Source Files\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="QuadTree.cpp">
+      <Filter>Source Files\Framework\CollisionDetection</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files\Framework\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="Entity.cpp">
+      <Filter>Source Files\Framework\Composition</Filter>
+    </ClCompile>
+    <ClCompile Include="Ball.cpp">
+      <Filter>Source Files\Game\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Brick.cpp">
+      <Filter>Source Files\Game\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="Paddle.cpp">
+      <Filter>Source Files\Game\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="DefaultGameState.cpp">
+      <Filter>Source Files\Game\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="PhysicsBody.cpp">
+      <Filter>Source Files\Game\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider.cpp">
+      <Filter>Source Files\Game\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="SpriteRenderer.cpp">
+      <Filter>Source Files\Game\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="ShapeRenderer.cpp">
+      <Filter>Source Files\Game\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="UILable.cpp">
+      <Filter>Source Files\Framework\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelBuilder.cpp">
+      <Filter>Source Files\Framework\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="ContentManager.cpp">
+      <Filter>Source Files\Framework\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionHandler.cpp">
+      <Filter>Source Files\Framework\CollisionDetection</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Source Files\Framework\Application</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuState.cpp">
+      <Filter>Source Files\Game\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Source Files\Framework\Composition</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioSource.cpp">
+      <Filter>Source Files\Game\Components</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelSelectState.cpp">
+      <Filter>Source Files\Game\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="FinishState.cpp">
+      <Filter>Source Files\Game\GameStates</Filter>
+    </ClCompile>
+    <ClCompile Include="InstructionState.cpp">
+      <Filter>Source Files\Game\GameStates</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GameStateManager.h">
+      <Filter>Header Files\Systems\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="SFMLMath.hpp">
+      <Filter>Header Files\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStates.hpp">
+      <Filter>Header Files\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="Components.hpp">
+      <Filter>Header Files\Helpers</Filter>
+    </ClInclude>
+    <ClInclude Include="UIButton.h">
+      <Filter>Header Files\Systems\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIElement.h">
+      <Filter>Header Files\Systems\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="UIHandler.h">
+      <Filter>Header Files\Systems\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="QuadTree.h">
+      <Filter>Header Files\Systems\CollisionDetection</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseGameState.h">
+      <Filter>Header Files\Systems\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="Ball.h">
+      <Filter>Header Files\Game\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Brick.h">
+      <Filter>Header Files\Game\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="Paddle.h">
+      <Filter>Header Files\Game\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="DefaultGameState.h">
+      <Filter>Header Files\Game\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="PhysicsBody.h">
+      <Filter>Header Files\Game\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider.h">
+      <Filter>Header Files\Game\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Header Files\Systems\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="Entity.h">
+      <Filter>Header Files\Systems\Composition</Filter>
+    </ClInclude>
+    <ClInclude Include="InputHandler.h">
+      <Filter>Header Files\Systems\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="SpriteRenderer.h">
+      <Filter>Header Files\Game\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ShapeRenderer.h">
+      <Filter>Header Files\Game\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelBuilder.h">
+      <Filter>Header Files\Systems\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="UILable.h">
+      <Filter>Header Files\Systems\GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Header Files\Systems\Composition</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioSource.h">
+      <Filter>Header Files\Game\Components</Filter>
+    </ClInclude>
+    <ClInclude Include="ContentManager.h">
+      <Filter>Header Files\Systems\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Header Files\Systems\Application</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionHandler.h">
+      <Filter>Header Files\Systems\CollisionDetection</Filter>
+    </ClInclude>
+    <ClInclude Include="Manifold.hpp">
+      <Filter>Header Files\Systems\CollisionDetection</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuState.h">
+      <Filter>Header Files\Game\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelSelectState.h">
+      <Filter>Header Files\Game\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="FinishState.h">
+      <Filter>Header Files\Game\GameStates</Filter>
+    </ClInclude>
+    <ClInclude Include="InstructionState.h">
+      <Filter>Header Files\Game\GameStates</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Content\Maps\Level_1.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Content\Maps\Level_0.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Content\Maps\Level_Template.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Content\Maps\Level_2.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Content\Maps\Level_3.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Content\Maps\Level_4.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

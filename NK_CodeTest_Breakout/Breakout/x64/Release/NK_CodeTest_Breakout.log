@@ -1,0 +1,7 @@
+﻿  AudioSource.cpp
+  Generating code
+  10 of 1837 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NK_CodeTest_Breakout.vcxproj -> C:\Users\georg\OneDrive\Desktop\Breakout\NK_CodeTest_Breakout\x64\Release\NK_CodeTest_Breakout.exe

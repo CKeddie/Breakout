@@ -1,0 +1,24 @@
+xxxxxxxxxxxxxxxx	// grid dimensions 64x32
+xxxxxxxxxxxxxxxx	// 
+xxLLLLLLLLLLLLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxxxxxxxxxLxx
+xxLxxMMMMMMxxLxx
+xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx
+xxxxxxxxxxxxxxxx	//

@@ -1,0 +1,57 @@
+﻿  Application.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\application.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  AudioManager.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\audiomanager.h(3): fatal error C1083: Cannot open include file: 'SFML\Audio.hpp': No such file or directory
+  AudioSource.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\component.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Ball.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\ball.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  BaseGameState.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\basegamestate.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Brick.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\entity.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Collider.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\component.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  CollisionHandler.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\quadtree.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  ContentManager.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\contentmanager.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  FinishState.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\basegamestate.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Component.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\component.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  DefaultGameState.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\application.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Entity.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\entity.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  GameStateManager.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\gamestatemanager.cpp(1): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  InputHandler.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\inputhandler.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  LevelBuilder.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\levelbuilder.h(5): fatal error C1083: Cannot open include file: 'SFML\System\Vector2.hpp': No such file or directory
+  LevelSelectState.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\basegamestate.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  main.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\application.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  MenuState.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\basegamestate.h(4): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Paddle.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\entity.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  Compiling...
+  PhysicsBody.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\physicsbody.h(3): fatal error C1083: Cannot open include file: 'SFML\System\Vector2.hpp': No such file or directory
+  QuadTree.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\quadtree.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  ShapeRenderer.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\component.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  SpriteRenderer.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\component.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  UIButton.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\uielement.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  UIElement.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\uielement.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  UIHandler.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\uihandler.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
+  UILable.cpp
+c:\users\georg\onedrive\desktop\breakout\nk_codetest_breakout\nk_codetest_breakout\uielement.h(3): fatal error C1083: Cannot open include file: 'SFML\Graphics.hpp': No such file or directory
